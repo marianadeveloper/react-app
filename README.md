@@ -1,3 +1,8 @@
+## Screenshots
+![screenshot]
+(https://github.com/marianadeveloper/react-app/blob/master/react-app-nav.png)
+(https://github.com/marianadeveloper/react-app/blob/master/react-app-task.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
