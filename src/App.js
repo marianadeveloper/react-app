@@ -47,7 +47,7 @@ render(){
             </p>
             <p>
               <mark>
-                <b>{todo.responsable}</b>
+                <b>{todo.responsible}</b>
               </mark>
             </p>
           </div>

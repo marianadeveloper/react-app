@@ -3,49 +3,49 @@
     "todos":[
         {
             "title": "Task N° 1",
-            "responsable": "Mark",
+            "responsible": "Mark",
             "description": "Planning",
             "priority": "Low"
         },
         {
             "title": "Task N° 2",
-            "responsable": "Mariana",
+            "responsible": "Mariana",
             "description": "Design",
             "priority": "Medium"
         },
         {
             "title": "Task N° 3",
-            "responsable": "Ryan",
+            "responsible": "Ryan",
             "description": "Developing",
             "priority": "High"
         },
         {
             "title": "Task N° 4",
-            "responsable": "Sofia",
+            "responsible": "Sofia",
             "description": "Implementation",
             "priority": "Low"
         },
         {
             "title": "Task N° 5",
-            "responsable": "Javier",
+            "responsible": "Javier",
             "description": "Tests",
             "priority": "Medium"
         },
         {
             "title": "Task N° 6",
-            "responsable": "Humberto",
+            "responsible": "Humberto",
             "description": "Documentation",
             "priority": "High"
         },
         {
             "title": "Task N° 7",
-            "responsable": "Carlos",
+            "responsible": "Carlos",
             "description": "Deployment",
             "priority": "High"
         },
         {
             "title": "Task N° 8",
-            "responsable": "David",
+            "responsible": "David",
             "description": "Maintenance",
             "priority": "High"
         }
